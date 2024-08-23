@@ -1,0 +1,18 @@
+
+
+Version:	3.50
+CmdLine:	C:\Users\ak500\OneDrive\Desktop\Javapad\JavaPad.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\ak500\OneDrive\Desktop\Javapad\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+JRE paths:	jre
+Check launcher:	C:\Users\ak500\OneDrive\Desktop\Javapad\jre\bin\javaw.exe (OK)
+Version string: 1.008.000_361 / 64-Bit (OK)
+Launcher:	C:\Users\ak500\OneDrive\Desktop\Javapad\jre\bin\javaw.exe
+Launcher args:	-jar "C:\Users\ak500\OneDrive\Desktop\Javapad\JavaPad.exe"
+Args length:	58/32768 chars
+Exit code:	0
