@@ -1,7 +1,3 @@
-Here's an updated README for "JavaPad," including the information that it's a desktop application and a placeholder for screenshots:
-
----
-
 # JavaPad
 
 JavaPad is a lightweight desktop text editor developed in Java, designed for Java-related programming tasks. It offers a user-friendly interface similar to Notepad, allowing users to create, edit, and save text files easily.
